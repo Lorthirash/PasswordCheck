@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "spqRtulUMTDo/St2wT5s6PbQSxUbaCazgkTdb71kzNg3CH/Mcl3YsQX3JtB7zWU2I6ElTI9g8CsMrXVuh8ci9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Csharp\\PWCHECK\\PasswordCheckDemo\\PasswordCheckDemo\\PasswordCheckDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lorth\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
